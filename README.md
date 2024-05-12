@@ -28,13 +28,13 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/news-website-react.git
+   git clone https://github.com/YashSHarmaAmarnath/newsXpress.git
    ```
 
 2. Navigate to the project directory:
 
    ```
-   cd news-website-react
+   cd newsXpress
    ```
 
 3. Install dependencies:
@@ -69,4 +69,3 @@ Once the application is running locally, you can:
 ## Contributing
 
 Contributions to this project are welcome! If you find any bugs or have suggestions for new features, feel free to open an issue or submit a pull request.
-
